@@ -1,4 +1,5 @@
 streamlit
+streamlit-audiorecorder
 google-generativeai
 streamlit-webrtc
 Pillow
