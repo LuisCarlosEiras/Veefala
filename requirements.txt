@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+streamlit-webrtc
+Pillow
+gTTS
+speechrecognition
+PyAudio # Pode ser desafiador instalar em alguns sistemas. Alternativas podem ser exploradas.
