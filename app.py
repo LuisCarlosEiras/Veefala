@@ -1,4 +1,5 @@
 import streamlit as st
+from st_audiorec import st_audiorec 
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, WebRtcMode, RTCConfiguration
 import google.generativeai as genai
 from PIL import Image
